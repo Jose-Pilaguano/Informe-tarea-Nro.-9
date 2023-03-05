@@ -40,7 +40,7 @@ Diferenciar entre los tipos de filtros presentados en la tarea, comprendiendo su
 
 +++ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS PARES CAPITULO 17 Y 18 DEL LIBRO DE FLOYD +++
 
------ Capitulo 18 -----
+----- Capitulo 17 -----
 
 PARTE 1: CIRCUITOS EN SERIE
 
@@ -103,10 +103,6 @@ SECCIÓN 18–1 Filtros pasabajas
 ![image](https://user-images.githubusercontent.com/116677175/222973875-8dd7541d-8633-49f1-bdfb-228d8ec1f13b.png)
 
 ![image](https://user-images.githubusercontent.com/116677175/222973887-89fdd1a7-2bab-41cd-b172-8ace21fdcc65.png)
-
-![image](https://user-images.githubusercontent.com/116677175/222973905-465fda27-af10-42ba-ba86-896d93f067eb.png)
-
-![image](https://user-images.githubusercontent.com/116677175/222973926-5634a17c-bb02-4bad-85d9-16228467783d.png)
 
 ![image](https://user-images.githubusercontent.com/116677175/222973942-e7e6a043-8734-415f-9c4d-63fde0c601f3.png)
 
