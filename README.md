@@ -22,6 +22,22 @@ Diferenciar entre los tipos de filtros presentados en la tarea, comprendiendo su
 
 2. MARCO TEORICO.
 
+![image](https://user-images.githubusercontent.com/116677175/222976109-e93c73a2-7f62-4f45-9771-28e972dd7f10.png)
+
+![image](https://user-images.githubusercontent.com/116677175/222976120-c2e99e71-8aad-458e-b280-87fe98ae2949.png)
+
+![image](https://user-images.githubusercontent.com/116677175/222976130-095a3652-173c-42a3-a5b1-b5847aa8a126.png)
+
+![image](https://user-images.githubusercontent.com/116677175/222976140-6314a2f9-177f-4f2c-b260-c1e765153c1e.png)
+
+![image](https://user-images.githubusercontent.com/116677175/222976155-0f9b1fcb-b5c8-4f8c-b095-967bcaa308d8.png)
+
+![image](https://user-images.githubusercontent.com/116677175/222976170-231fc1f1-91fc-4e7e-9eb4-2067b43dea99.png)
+
+![image](https://user-images.githubusercontent.com/116677175/222976191-da14730d-cfa8-4a60-81a3-9415edde2728.png)
+
+![image](https://user-images.githubusercontent.com/116677175/222976334-219bfce9-5a4c-46a0-b7ed-013e68576520.png)
+
 +++ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS PARES CAPITULO 17 Y 18 DEL LIBRO DE FLOYD +++
 
 ----- Capitulo 18 -----
@@ -121,6 +137,8 @@ SECCIÓN 18–4 Filtros Rechazabanda
 ![image](https://user-images.githubusercontent.com/116677175/222974235-196a04a2-dfd6-4cf5-845d-ee072edb3db7.png)
 
 4. VIDEO
+
+https://youtu.be/EbQa5nk5qRM 
 
 5. CONCLUSIONES 
 
